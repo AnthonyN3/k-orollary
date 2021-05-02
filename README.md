@@ -2,10 +2,9 @@
 <h1>Korollary</h1>
     
 <b>K-Means Clustering on Images</b>
-</div>
-
 
 <img src="images/overview.png" width="70%">
+</div>
 
 ## Index
 - [Contributors](#contributors)
@@ -83,7 +82,7 @@ Original Image (With transparency):
 
 K = 5
 
-<img src="images/image2_k5.png" width="50%">
+<img src="images/image2_k5.jpg" width="50%">
 
 
 </div>
