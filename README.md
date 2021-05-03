@@ -1,8 +1,5 @@
 <div align="center">
-<div style="display:inline-block;vertical-align:middle;">
-    <img src="Icons/icon.ico" width="60"/>
-</div>
-<h1 style="display:inline-block;">Korollary</h1>
+<h1>Korollary</h1>
     
 <b>K-Means Clustering on Images</b>
 
