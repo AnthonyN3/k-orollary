@@ -1,5 +1,8 @@
 <div align="center">
-<h1>Korollary</h1>
+<div style="display:inline-block;vertical-align:middle;">
+    <img src="Icons/icon.ico" width="60"/>
+</div>
+<h1 style="display:inline-block;">Korollary</h1>
     
 <b>K-Means Clustering on Images</b>
 
@@ -39,7 +42,9 @@ We used the .NET framework to create a C# form to;
 
 We created a method that takes the images pixels channels (red, green, blue) and sends them to haskel. For the sake of simplicity, the below diagram is a simplified representation of what is happening.
 
-![csharp_diagram](images/csharp_diagram.png)
+<p align="center">
+    <img src="images/csharp_diagram.png">
+</p>
 
 Some images (32 bpp) have an alpha channel in each pixel. Therefore if the image contains an alpha channel, we only send the rgb values to the haskell program and exclude the alpha value
 
