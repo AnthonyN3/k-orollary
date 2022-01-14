@@ -3,7 +3,8 @@
     
 <b>K-Means Clustering on Images</b>
 
-<img src="images/overview.png" width="70%">
+<img src="images/overview.png" width="80%">
+Note: The selected K Means Clusters (5 in the screenshot) refers to the total number of unique colors in the Output Image
 </div>
 
 ## Index
@@ -93,4 +94,4 @@ K = 5
 
 Go to ![releases](https://github.com/AnthonyN3/k-orollary/releases) and follow the instructions.
 
-Note: Images with higher resolutions may require longer processing
+Note: Images with higher resolutions may require longer processing time. During computation the application may state it is "not responding", this is normal and just requires you to wait a bit. 
