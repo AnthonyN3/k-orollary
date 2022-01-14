@@ -3,8 +3,9 @@
     
 <b>K-Means Clustering on Images</b>
 
-<img src="images/overview.png" width="80%">
-Note: The selected K Means Clusters (5 in the screenshot) refers to the total number of unique colors in the Output Image
+<img src="images/overview.png" width="75%">
+<br>
+<p>Note: The selected K Means Clusters (5 in the screenshot) refers to the total number of unique colors in the Output Image</p>
 </div>
 
 ## Index
